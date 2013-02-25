@@ -1,0 +1,21 @@
+Qt 编译步骤:
+qmake -project
+qmake QtDemo.pro
+nmake
+
+
+切换到 Release 模式编译:
+qmake -config release
+nmake
+
+
+切换到 Debug 模式编译:
+qmake -config debug
+nmake
+
+
+Demo01:	最简单的 Qt Demo。
+Demo02: 结合 Qt 设计师设计的 UI 实现显示 Qt 界面的第一种方法 - 直接使用法。
+Demo03:	结合 Qt 设计师设计的 UI 实现显示 Qt 界面的第二种方法 - 多重继承法。
+Demo04:	结合 Qt 设计师设计的 UI 实现显示 Qt 界面的第二种方法 - 多重继承法。
+Demo05:	结合 Qt 设计师设计的 UI 实现显示 Qt 界面的第二种方法 - 单一继承法。
