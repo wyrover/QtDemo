@@ -1,5 +1,11 @@
 # C++ objects and libs
 
+*.suo
+*.user
+*.ilk
+*.exe
+*.pdb
+*.obj
 *.slo
 *.lo
 *.o
@@ -16,5 +22,4 @@
 *.pro.user.*
 moc_*.cpp
 qrc_*.cpp
-Makefile
 *-build-*
