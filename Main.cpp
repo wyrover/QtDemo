@@ -5,10 +5,11 @@
 #include "Demo03/Demo03.h"
 #include "Demo04/Demo04.h"
 #include "Demo05/Demo05.h"
+#include "Demo06/Demo06.h"
 
 
 // 定义将要调用的 Main 函数
-#define DemoMain	Demo05Main
+#define DemoMain	Demo06Main
 
 
 // 程序入口

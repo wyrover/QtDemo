@@ -16,7 +16,8 @@ HEADERS += Main.h \
            Demo04/Demo04.h \
            Demo04/Demo04_UI01_Dlg.h \
            Demo05/Demo05.h \
-           Demo05/Demo05_UI01_Dlg.h
+           Demo05/Demo05_UI01_Dlg.h \
+    Demo06/Demo06.h
 FORMS += Demo02/Demo02_UI01_Dlg.ui \
          Demo03/Demo03_UI01_Dlg.ui \
          Demo04/Demo04_UI01_Dlg.ui \
@@ -29,4 +30,5 @@ SOURCES += Main.cpp \
            Demo04/Demo04.cpp \
            Demo04/Demo04_UI01_Dlg.cpp \
            Demo05/Demo05.cpp \
-           Demo05/Demo05_UI01_Dlg.cpp
+           Demo05/Demo05_UI01_Dlg.cpp \
+    Demo06/Demo06.cpp
